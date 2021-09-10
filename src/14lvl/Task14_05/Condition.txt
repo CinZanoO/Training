@@ -1,0 +1,14 @@
+В классе Solution объявлены методы, которые тебе нужно реализовать следующим образом:
+
+removeBugWithFor(ArrayList<String>) - должен удалить строку из списка, если она содержит слово bug, используя цикл for и счетчик.
+removeBugWithWhile(ArrayList<String>) - должен удалить строку из списка, если она содержит слово bug, используя цикл while и метод iterator().
+removeBugWithCopy(ArrayList<String>) - должен удалить строку из списка, если она содержит слово bug, используя цикл for-each и копию списка.
+При поиске слова bug не нужно учитывать регистр.
+Метод main реализован для вашего кода и не участвует в проверке.
+Требования:
+•	В классе Solution должен быть публичный статический метод removeBugWithFor(ArrayList<String>) с типом возвращаемого значения void.
+•	В классе Solution должен быть публичный статический метод removeBugWithWhile(ArrayList<String>) с типом возвращаемого значения void.
+•	В классе Solution должен быть публичный статический метод removeBugWithCopy(ArrayList<String>) с типом возвращаемого значения void.
+•	Метод removeBugWithFor(ArrayList<String>) должен работать согласно условию.
+•	Метод removeBugWithWhile(ArrayList<String>) должен работать согласно условию.
+•	Метод removeBugWithCopy(ArrayList<String>) должен работать согласно условию.
