@@ -1,0 +1,9 @@
+Реализуй логику метода getAllDataFromInputStream. Он должен вернуть StringWriter, содержащий все данные из переданного потока.
+Возвращаемый объект ни при каких условиях не должен быть null.
+Метод main не участвует в тестировании.
+
+Требования:
+•	Публичный статический метод getAllDataFromInputStream (InputStream) должен существовать.
+•	Метод getAllDataFromInputStream (InputStream) должен возвращать StringWriter.
+•	Метод getAllDataFromInputStream (InputStream) должен вернуть StringWriter, который содержит все данные из переданного потока.
+•	Возвращаемый объект ни при каких условиях не должен быть null.
